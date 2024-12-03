@@ -22,6 +22,20 @@ I'm always eager to connect and collaborate with like-minded individuals who sha
 
 ---
 
+## ❤️ Support My Journey  
+If you find my work valuable or want to support my journey as an aspiring software engineer, consider sponsoring me:  
+
+[![Sponsor Me](https://img.shields.io/badge/Sponsor%20Me-%F0%9F%A4%97-orange?style=for-the-badge&logo=github)](https://github.com/sponsors/jansiddiqui)  
+
+Your support will help me:  
+- 💻 Access advanced tools and resources to enhance my learning.  
+- 📚 Attend events, hackathons, and other skill-building opportunities.  
+- 🌟 Focus more on building open-source projects for the community.  
+
+Every contribution, big or small, means the world to me! Thank you for believing in my potential.  
+
+---
+
 ## 📫 Let's Connect  
 - **LinkedIn**: [Jan Mohammad](https://www.linkedin.com/in/jan-mohammad-566a6221b)  
 - **Portfolio**: [About Me](https://about-me-theta-mocha.vercel.app/)  
@@ -30,6 +44,11 @@ I'm always eager to connect and collaborate with like-minded individuals who sha
 
 ### 👨‍💻 About Me  
 I’m an aspiring software engineer with a keen interest in creating solutions that make a difference. With a strong foundation in coding and problem-solving, I'm preparing to contribute to impactful projects during my internship at Microsoft and beyond.  
+
+---
+
+### 📊 GitHub Stats  
+[![Jan Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=jansiddiqui&show_icons=true&theme=radical)](https://github.com/jansiddiqui)  
 
 ---
 
