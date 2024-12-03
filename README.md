@@ -52,4 +52,4 @@ I’m an aspiring software engineer with a keen interest in creating solutions t
 
 ---
 
-✨ *Thanks for stopping by! Let's innovate together.*  
+✨ *Thanks for stopping by! Let's create, innovate and grow together.*  
