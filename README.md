@@ -45,6 +45,7 @@ Every contribution, big or small, means the world to me! Thank you for believing
     <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </div>
+
 ---
 
 ### 👨‍💻 About Me  
