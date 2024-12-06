@@ -37,9 +37,14 @@ Every contribution, big or small, means the world to me! Thank you for believing
 ---
 
 ## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jan-mohammad-566a6221b)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://about-me-theta-mocha.vercel.app/)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/jan-mohammad-566a6221b" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://about-me-theta-mocha.vercel.app/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=vercel" alt="Portfolio">
+  </a>
+</p>
 ---
 
 ### 👨‍💻 About Me  
