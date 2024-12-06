@@ -38,7 +38,10 @@ Every contribution, big or small, means the world to me! Thank you for believing
 
 ## 📫 Let's Connect  
 - **LinkedIn**: [Jan Mohammad](https://www.linkedin.com/in/jan-mohammad-566a6221b)  
+  <button onclick="alert('You liked my LinkedIn profile! Thank you!')" style="padding: 5px 10px; color: white; background-color: #0072b1; border: none; border-radius: 5px; cursor: pointer;">Like 👍</button>  
+
 - **Portfolio**: [About Me](https://about-me-theta-mocha.vercel.app/)  
+  <button onclick="alert('You liked my Portfolio! Much appreciated!')" style="padding: 5px 10px; color: white; background-color: #4CAF50; border: none; border-radius: 5px; cursor: pointer;">Like 👍</button>  
 
 ---
 
