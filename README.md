@@ -37,14 +37,18 @@ Every contribution, big or small, means the world to me! Thank you for believing
 ---
 
 ## 📫 Let's Connect  
-<div align="center">
-  <a href="https://www.linkedin.com/in/jan-mohammad-566a6221b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<p align="center">
+  <a href="https://www.linkedin.com/in/jan-mohammad-566a6221b" target="_blank" style="text-decoration: none;">
+    <span style="display: inline-block; background: #0A66C2; color: white; padding: 10px 20px; border-radius: 5px; font-size: 16px; font-weight: bold; font-family: Arial, sans-serif;">
+      LinkedIn
+    </span>
   </a>
-  <a href="https://about-me-theta-mocha.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  <a href="https://about-me-theta-mocha.vercel.app/" target="_blank" style="text-decoration: none;">
+    <span style="display: inline-block; background: #4CAF50; color: white; padding: 10px 20px; border-radius: 5px; font-size: 16px; font-weight: bold; font-family: Arial, sans-serif;">
+      Portfolio
+    </span>
   </a>
-</div>
+</p>
 
 ---
 
