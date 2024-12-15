@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jan Mohammad  
+# 👋 Hi, I'm   
 ### 🎯 Upcoming Software Engineering Intern at Microsoft  
 
 Welcome to my GitHub! I'm a passionate coder and a problem-solving enthusiast who loves to dive deep into challenging algorithms and innovative projects.
