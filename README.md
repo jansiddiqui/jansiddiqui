@@ -1,6 +1,6 @@
   # 👋 Hi, I'm Jan Mohammad  
 ### 🎯 Upcoming Software Engineering Intern at Microsoft  
-Profile Views: ![GitHub Actions](https://github.com/jansiddiqui/profile-views-counter/actions/workflows/update.yml/badge.svg)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-1000-blue?style=for-the-badge)
 
 Welcome to my GitHub! I'm a passionate coder and a problem-solving enthusiast who loves to dive deep into challenging algorithms and innovative projects.
 
