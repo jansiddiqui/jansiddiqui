@@ -1,7 +1,12 @@
-  # 👋 Hi, I'm Jan Mohammad  
-### 🎯 Upcoming Software Engineering Intern at Microsoft  
-![Profile Views](https://img.shields.io/badge/Profile%20Views-1000-blue?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=jansiddiqui&style=for-the-badge&color=orange)
 
+<div align="center">
+  <h1>Hi 👋, I'm Jan Mohammad</h1>
+</div>
+<div align="center">
+  <h3>🎯 Upcoming Software Engineering Intern at Microsoft</h3>
+</div>
+  
 Welcome to my GitHub! I'm a passionate coder and a problem-solving enthusiast who loves to dive deep into challenging algorithms and innovative projects.
 
 ---
