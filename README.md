@@ -1,6 +1,6 @@
   # 👋 Hi, I'm Jan Mohammad  
 ### 🎯 Upcoming Software Engineering Intern at Microsoft  
-![Profile Views](https://komarev.com/ghpvc/?username=jansiddiqui&color=green&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=jansiddiqui&label=PROFILE+VIEWS)
 
 Welcome to my GitHub! I'm a passionate coder and a problem-solving enthusiast who loves to dive deep into challenging algorithms and innovative projects.
 
