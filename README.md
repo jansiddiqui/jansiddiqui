@@ -11,7 +11,7 @@
 [![Courage Library](https://img.shields.io/badge/Courage%20Library-e11d48?style=for-the-badge&logo=bookstack&logoColor=white)](https://couragelibrary.in)
 [![Email](https://img.shields.io/badge/jan%40couragelibrary.in-0f172a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jan@couragelibrary.in)
 
-![Profile Views](https://komarev.com/ghpvc/?username=jansiddiqui&color=3b82f6&style=flat-square&label=Profile+Views)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=jansiddiqui.jansiddiqui&left_color=0f172a&right_color=3b82f6&left_text=Profile%20Views)
 
 </div>
 
