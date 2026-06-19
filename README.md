@@ -1,66 +1,127 @@
 <div align="center">
 
-# Jan Mohammad
-
-**B.Tech CSE (AI/ML) · Lovely Professional University**
-
-Builder · Founder · Problem Solver
-
-[Portfolio](https://about-me-theta-mocha.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/jan-mohammad-566a6221b) · [GitHub](https://github.com/jansiddiqui)
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=180&section=header&text=Jan%20Mohammad&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Builder%20%C2%B7%20Founder%20%C2%B7%20CSE%20(AI%2FML)&descAlignY=58&descSize=16&descColor=94a3b8" width="100%" />
 
 </div>
 
-## About
+<div align="center">
 
-I'm a third-year Computer Science student specialising in AI/ML, building things that matter at the intersection of education technology and software engineering.
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://about-me-theta-mocha.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-mohammad-566a6221b)
+[![Courage Library](https://img.shields.io/badge/Courage%20Library-e11d48?style=for-the-badge&logo=bookstack&logoColor=white)](https://couragelibrary.in)
+[![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jan@couragelibrary.in)
 
-I'm the founder of **Courage Library** — an exam preparation platform serving government exam aspirants across India's Hindi belt — and the creator of **CNTS**, a national-level cognitive assessment platform for school students. I build full-stack, own my stack, and ship.
+</div>
 
-Previously interned at **Infosys Springboard**. Co-founded **Oryza Creative Agency**.
+<br />
+
+I'm a third-year CSE (AI/ML) student at LPU and the solo founder of **Courage Library** — a full-stack exam preparation platform built for government exam aspirants across India's Hindi belt. I design, engineer, and ship everything myself.
+
+Currently building: **Courage Library** · **CNTS** · **SplitSync**  
+Previously: Infosys Springboard · Oryza Creative Agency (co-founder)
 
 ---
 
 ## What I'm Building
 
-| Project | Description | Stack |
-|---|---|---|
-| **[Courage Library](https://couragelibrary.in)** | Exam prep platform for SSC, UP Police & government exams — mock tests, gamification, physical rewards | Supabase · Vanilla JS · Alpine.js · Tailwind |
-| **[CNTS](https://www.thecouragelibrary.com)** | National cognitive aptitude assessment for Classes 5–8 | Next.js 15 · Supabase · Vercel |
-| **SplitSync** | Shared expense tracker with real-time sync | Next.js · Vercel |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Courage Library](https://couragelibrary.in)
+Exam prep platform serving SSC, UP Police, and government exam aspirants across Tier 2/3 India. Mock tests, gamified coin rewards, streaks, leaderboards, physical prizes, and a study center in Kanpur.
+
+`Supabase` `Alpine.js` `Tailwind CSS` `Vanilla JS` `Brevo`
+
+</td>
+<td width="50%" valign="top">
+
+### [CNTS](https://www.thecouragelibrary.com)
+Courage National Talent Search — a national cognitive aptitude assessment for Classes 5–8. Measures how students think, not what they've memorised.
+
+`Next.js 15` `Supabase` `Vercel` `Tailwind CSS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### SplitSync
+Shared expense tracker with real-time sync. Clean UI, instant splits, no account friction.
+
+`Next.js` `Vercel`
+
+</td>
+<td width="50%" valign="top">
+
+### CL AI War Room
+Multi-agent AI operating system for Courage Library — 8 department dashboards (CEO, CMO, CHRO, CRO, and more) connected to a live Supabase backend.
+
+`Supabase` `JavaScript` `Claude API`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Technical Skills
 
-**Languages** — C++, Java, Python, JavaScript, SQL  
-**Frameworks** — React, Next.js, Node.js, Alpine.js, Tailwind CSS  
-**Platforms** — Supabase, Vercel, Brevo  
-**AI/ML** — YOLOv8, TrOCR, EfficientNet, OpenCV  
-**Tools** — Git, n8n, Blue Prism RPA
+**Languages**
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Platforms & Infrastructure**
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+**AI / ML**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![EfficientNet](https://img.shields.io/badge/EfficientNet-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ---
 
-## Competitive Programming
+## Selected Work
 
-Active on GeeksforGeeks with 600+ problems solved. Core focus on Data Structures and Algorithms in C++ and Java.
+**PCB Defect Detection**  
+Production-scale PCB quality inspection — YOLOv8 for detection, EfficientNet for classification, OpenCV for preprocessing. Built for CSE471 as an academic AI project.
 
-[![Jan Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=jansiddiqui&show_icons=true&theme=vue&hide_border=true)](https://github.com/jansiddiqui)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jansiddiqui&theme=vue&hide_border=true)](https://git.io/streak-stats)
+**MindWell**  
+Mental health support platform. Built and submitted for Smart India Hackathon 2025.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jansiddiqui&layout=compact&theme=vue&hide_border=true)](https://github.com/jansiddiqui)
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jansiddiqui&theme=github-light&hide_border=true)](https://github.com/jansiddiqui)
+**Question Bank Engine**  
+Built a PDF-to-Supabase pipeline for bulk-importing 2,000+ SSC GD and UP Police PYQ questions — Gemini/Claude vision for extraction, custom CSV schema, preview-in-exam-view importer.
 
 ---
 
-## Selected Projects
+## GitHub Activity
 
-**PCB Defect Detection** — Automated PCB quality inspection using OpenCV and EfficientNet for defect classification at production scale.
+<div align="center">
 
-**MindWell** — Mental health support platform built for Smart India Hackathon 2025.
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jansiddiqui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=94a3b8)](https://github.com/jansiddiqui)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jansiddiqui&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6)](https://git.io/streak-stats)
 
-**CL AI War Room** — Multi-agent AI operating system for Courage Library with 8 department dashboards connected to Supabase (CEO, CMO, CHRO, CRO, and more).
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jansiddiqui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=94a3b8)](https://github.com/jansiddiqui)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jansiddiqui&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff)](https://github.com/jansiddiqui)
+
+</div>
 
 ---
 
@@ -69,68 +130,43 @@ Active on GeeksforGeeks with 600+ problems solved. Core focus on Data Structures
 **B.Tech Computer Science & Engineering (AI/ML)**  
 Lovely Professional University · 2022–2026
 
----
+600+ problems solved on GeeksforGeeks · Focus on DSA in C++ and Java
 
 ---
 
 <br />
 
----
-
 <div align="center">
 
-# Courage National Talent Search
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a5f&height=3&section=header" width="100%" />
 
-### A national cognitive aptitude assessment for students in Classes 5–8
+<br />
 
-[Register](https://www.thecouragelibrary.com) · [Candidate Portal](https://www.thecouragelibrary.com/dashboard) · [thecouragelibrary.com](https://www.thecouragelibrary.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a5f&height=160&section=header&text=Courage%20National%20Talent%20Search&fontSize=32&fontColor=ffffff&fontAlignY=42&desc=A%20national%20cognitive%20aptitude%20assessment%20%C2%B7%20Classes%205%E2%80%938%20%C2%B7%20Founding%20Edition%202026&descAlignY=62&descSize=13&descColor=94a3b8" width="100%" />
 
-**Founding Edition — 2026**
+[![Website](https://img.shields.io/badge/Website-thecouragelibrary.com-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.thecouragelibrary.com)
+[![Candidate Portal](https://img.shields.io/badge/Candidate%20Portal-Login-1e3a5f?style=for-the-badge&logo=person&logoColor=white)](https://www.thecouragelibrary.com/dashboard)
+[![Courage Library](https://img.shields.io/badge/By-Courage%20Library-e11d48?style=for-the-badge)](https://couragelibrary.in)
 
 </div>
+
+<br />
 
 ---
 
 ## Mission
 
-CNTS exists because cognitive ability and syllabus knowledge are not the same thing.
+> *"CNTS helps parents understand how their child thinks."*
 
-Most school assessments measure what a student has memorised. CNTS measures how a student thinks — their reasoning patterns, problem-solving approach, and cognitive strengths — and gives parents a clear picture of how their child processes information.
+Most school assessments answer one question: what did this student memorise? CNTS answers a different one: how does this student think?
 
-> **"CNTS helps parents understand how their child thinks."**
-
----
-
-## Why CNTS Exists
-
-Traditional school examinations reward recall. They tell parents what a child scored, but not how the child thinks. The gap between these two questions is significant:
-
-- A student who scores 85% may have strong verbal recall but limited quantitative reasoning.
-- A student who scores 70% may have exceptional logical ability that's never been measured.
-
-CNTS is built to surface what conventional assessments leave invisible.
-
----
-
-## What Makes CNTS Different
-
-**Not syllabus-based.**  
-CNTS does not test curriculum content. No NCERT. No board syllabus. Students prepare by thinking, not by memorising.
-
-**Not a coaching platform.**  
-We do not sell courses, tutorials, or preparation material. CNTS is a pure assessment platform.
-
-**Cognitively grounded.**  
-The assessment is designed around established frameworks for cognitive ability measurement — logical reasoning, quantitative thinking, language comprehension, and general cognitive ability.
-
-**Transparent outcomes.**  
-Every participant receives a Talent Profile Report detailing their performance across all four cognitive domains, not just a rank or a score.
+Cognitive ability and syllabus recall are not the same thing. A student who scores 85% may have limited quantitative reasoning. A student who scores 70% may have exceptional logical ability that has never been formally identified. CNTS is built to surface what conventional assessments leave invisible — and give parents a clear, domain-wise picture of their child's cognitive profile.
 
 ---
 
 ## Assessment Framework
 
-CNTS evaluates students across four cognitive domains:
+CNTS is not a syllabus test. No NCERT. No board content. Students cannot prepare by memorising — they engage with the assessment by thinking.
 
 | Domain | What It Measures |
 |---|---|
@@ -139,75 +175,50 @@ CNTS evaluates students across four cognitive domains:
 | **Language Comprehension** | Reading comprehension, vocabulary in context, verbal reasoning |
 | **General Cognitive Ability** | Cross-domain problem solving, abstract thinking |
 
-**Eligibility:** Classes 5, 6, 7, and 8  
-**Availability:** Open across India
+**Eligibility** — Classes 5, 6, 7, and 8  
+**Reach** — Open across India
 
 ---
 
-## Platform Features
+## Platform
 
-**Secure Candidate Portal**  
-Each registered student receives a personal login with their exam schedule, admit card, and results — all in one place.
+Every component of CNTS is built and maintained in-house.
 
-**Digital Admit Cards**  
-Generated automatically and accessible via the candidate portal and delivered to registered email.
-
-**WhatsApp & Email Notifications**  
-Students and parents receive timely updates for registration confirmations, exam reminders, and result announcements.
-
-**Talent Profile Reports**  
-Post-exam reports break down performance across all four cognitive domains with domain-wise scores and percentile data.
-
-**Public Certificate Verification**  
-Every certificate issued by CNTS can be verified independently. Certificates include a unique verification code.
-
-**Online Registration**  
-Fully digital registration flow with instant confirmation.
-
----
-
-## Technology
-
-CNTS is built with the same engineering standards as the broader Courage Library platform.
-
-| Layer | Technology |
+| Layer | Stack |
 |---|---|
-| **Frontend** | Next.js 15, Tailwind CSS |
-| **Backend & Database** | Supabase (PostgreSQL + Edge Functions) |
-| **Authentication** | Supabase Auth |
-| **Notifications** | Brevo (Email), WhatsApp Business API |
-| **Deployment** | Vercel |
-| **Certificate Verification** | Public UUID-based verification endpoint |
+| Frontend | Next.js 15, Tailwind CSS |
+| Backend & Database | Supabase (PostgreSQL + Edge Functions) |
+| Authentication | Supabase Auth |
+| Notifications | Brevo (Email) · WhatsApp Business API |
+| Deployment | Vercel |
+| Certificate Verification | UUID-based public verification endpoint |
 
-The candidate portal, registration flow, admit card generation, and certificate verification system are all built and maintained in-house.
+**Candidate Portal** — Registered students get a personal login: exam schedule, admit card, and results in one place.  
+**Digital Admit Cards** — Auto-generated, portal-accessible, email-delivered.  
+**Talent Profile Reports** — Domain-wise scores and percentile breakdown across all four cognitive areas.  
+**Public Certificate Verification** — Every certificate carries a unique code verifiable at a public endpoint. No fake certificates.  
+**WhatsApp + Email Notifications** — Registration confirmations, exam reminders, result announcements.
 
 ---
 
 ## Founding Edition — 2026
 
-The 2026 cohort is CNTS's inaugural assessment year.
+The 2026 cohort is CNTS's first. Every participant receives a complete Talent Profile Report. High performers in each class and cognitive domain receive distinction certificates.
 
-Students who participate in the Founding Edition receive their complete Talent Profile Report and a certificate of participation. High performers in each class and cognitive domain are recognised with distinction certificates.
-
-This is not a competitive ranking exercise — it is a structured way for students to understand their own cognitive strengths before they face the weight of board examinations and entrance tests.
-
----
-
-## Links
-
-| | |
-|---|---|
-| **Website** | [thecouragelibrary.com](https://www.thecouragelibrary.com) |
-| **Candidate Portal** | [thecouragelibrary.com/dashboard](https://www.thecouragelibrary.com/dashboard) |
-| **Parent Organisation** | [Courage Library](https://couragelibrary.in) |
+This is not a ranking exercise. It is a structured way for students to understand their own cognitive strengths — before they face the full weight of board examinations and entrance tests.
 
 ---
 
 <div align="center">
 
-*CNTS is a product of Courage Library · Kanpur, India*
+[![Register](https://img.shields.io/badge/Register%20for%20CNTS%202026-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.thecouragelibrary.com)
+[![Candidate Portal](https://img.shields.io/badge/Candidate%20Portal-1e3a5f?style=for-the-badge&logo=person&logoColor=white)](https://www.thecouragelibrary.com/dashboard)
 
-*Founding Edition 2026 — open for registration*
+<br />
+
+*CNTS is a product of Courage Library · Kanpur, Uttar Pradesh, India*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0f172a&height=100&section=footer" width="100%" />
 
 </div>
 
@@ -215,9 +226,8 @@ This is not a competitive ranking exercise — it is a structured way for studen
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=jansiddiqui&style=flat-square&color=6e7681&label=profile+views)](https://github.com/jansiddiqui)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=100&section=footer" width="100%" />
 
-*Open to collaboration, research opportunities, and meaningful projects.*  
-**[jan@couragelibrary.in](mailto:jan@couragelibrary.in)**
+[![Profile Views](https://komarev.com/ghpvc/?username=jansiddiqui&style=flat-square&color=3b82f6&label=profile+views)](https://github.com/jansiddiqui)
 
 </div>
