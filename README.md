@@ -1,15 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=200&section=header&text=Jan%20Mohammad&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Builder%20%C2%B7%20Founder%20%C2%B7%20CSE%20(AI%2FML)%20%C2%B7%20LPU&descAlignY=58&descSize=15&descColor=94a3b8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=210&section=header&text=Jan%20Mohammad&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Builder%20%E2%80%A2%20Founder%20%E2%80%A2%20CSE%20(AI%2FML)%20%E2%80%A2%20LPU&descAlignY=56&descSize=15&descColor=93c5fd" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Solo+founder+%7C+Full-stack+engineer;Building+edtech+for+Bharat;AI%2FML+student+%7C+600%2B+DSA+problems+solved;Shipping+real+products+from+Kanpur" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1200&color=3B82F6&center=true&vCenter=true&width=520&height=32&lines=Solo+founder+%7C+Full-stack+engineer;Building+edtech+for+Bharat+%F0%9F%87%AE%F0%9F%87%B3;AI%2FML+student+%7C+600%2B+DSA+problems+solved;Shipping+real+products+from+Kanpur" alt="Typing SVG" />
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://about-me-theta-mocha.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-mohammad-566a6221b)
 [![Courage Library](https://img.shields.io/badge/Courage%20Library-e11d48?style=for-the-badge&logo=bookstack&logoColor=white)](https://couragelibrary.in)
-[![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jan@couragelibrary.in)
+[![Email](https://img.shields.io/badge/jan%40couragelibrary.in-0f172a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jan@couragelibrary.in)
+
+![Profile Views](https://komarev.com/ghpvc/?username=jansiddiqui&color=3b82f6&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -177,20 +179,20 @@ PDF-to-Supabase pipeline for bulk-importing 2,000+ SSC GD & UP Police PYQs — v
 
 ---
 
-## Education & CP
+## Education & Competitive Programming
 
 <table>
 <tr>
-<td width="60%" valign="middle">
+<td width="55%" valign="middle">
 
-**B.Tech Computer Science & Engineering (AI/ML)**  
-Lovely Professional University · 2022–2026
+**B.Tech CSE (AI/ML)** · Lovely Professional University  
+2022 – 2026
 
 </td>
-<td width="40%" valign="middle" align="right">
+<td width="45%" valign="middle" align="right">
 
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-600%2B%20Problems-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![DSA](https://img.shields.io/badge/Focus-C%2B%2B%20%26%20Java%20DSA-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)]()
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-600%2B%20Problems%20Solved-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/jansiddiqui)
+[![DSA](https://img.shields.io/badge/DSA%20Focus-C%2B%2B%20%26%20Java-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)]()
 
 </td>
 </tr>
@@ -202,10 +204,10 @@ Lovely Professional University · 2022–2026
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1e3a5f&height=180&section=header&text=Courage%20National%20Talent%20Search&fontSize=34&fontColor=ffffff&fontAlignY=42&desc=A%20national%20cognitive%20aptitude%20assessment%20for%20students%20in%20Classes%205%E2%80%938&descAlignY=62&descSize=13&descColor=7dd3fc" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1e3a5f&height=190&section=header&text=Courage%20National%20Talent%20Search&fontSize=36&fontColor=ffffff&fontAlignY=42&desc=National%20Cognitive%20Aptitude%20Assessment%20%C2%B7%20Classes%205%E2%80%938%20%C2%B7%20Founding%20Edition%202026&descAlignY=63&descSize=12&descColor=7dd3fc" width="100%" />
 
 [![Website](https://img.shields.io/badge/thecouragelibrary.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=7dd3fc)](https://www.thecouragelibrary.com)
-[![Candidate Portal](https://img.shields.io/badge/Candidate%20Portal-1e3a5f?style=for-the-badge&logo=person&logoColor=white)](https://www.thecouragelibrary.com/dashboard)
+[![Candidate Portal](https://img.shields.io/badge/Candidate%20Portal-1e3a5f?style=for-the-badge&logo=key&logoColor=white)](https://www.thecouragelibrary.com/dashboard)
 [![Founding Edition](https://img.shields.io/badge/Founding%20Edition-2026-e11d48?style=for-the-badge)](https://www.thecouragelibrary.com)
 
 </div>
@@ -222,9 +224,28 @@ Most school assessments measure recall. CNTS measures cognition. A student who s
 
 ---
 
-### Assessment Framework
+### What CNTS Is Not
 
-CNTS does not test curriculum content. No NCERT. No board syllabus. Students cannot prepare by memorising — they engage by thinking.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+❌ &nbsp;**Not a coaching platform**  
+We sell no courses, tutorials, or prep material. CNTS is a pure assessment.
+
+</td>
+<td width="50%" valign="top">
+
+❌ &nbsp;**Not syllabus-based**  
+No NCERT. No board content. Students engage by thinking, not memorising.
+
+</td>
+</tr>
+</table>
+
+---
+
+### Assessment Framework
 
 | Domain | What It Measures |
 |---|---|
@@ -233,20 +254,13 @@ CNTS does not test curriculum content. No NCERT. No board syllabus. Students can
 | **Language Comprehension** | Reading comprehension, vocabulary in context, verbal reasoning |
 | **General Cognitive Ability** | Cross-domain problem solving, abstract thinking |
 
-<table>
-<tr>
-<td width="50%" valign="middle">
+<br/>
 
-![Eligibility](https://img.shields.io/badge/Eligibility-Classes%205%2C%206%2C%207%2C%208-1e3a5f?style=flat-square)
-
-</td>
-<td width="50%" valign="middle">
-
-![Reach](https://img.shields.io/badge/Reach-Open%20Across%20India-e11d48?style=flat-square)
-
-</td>
-</tr>
-</table>
+![Eligibility](https://img.shields.io/badge/Eligibility-Classes%205%2C%206%2C%207%20%26%208-1e3a5f?style=flat-square&logoColor=white)
+&nbsp;
+![Reach](https://img.shields.io/badge/Open%20Across-India%20%F0%9F%87%AE%F0%9F%87%B3-e11d48?style=flat-square&logoColor=white)
+&nbsp;
+![Language](https://img.shields.io/badge/Medium-English%20%26%20Hindi-0d1117?style=flat-square&logoColor=white)
 
 ---
 
@@ -256,19 +270,19 @@ CNTS does not test curriculum content. No NCERT. No board syllabus. Students can
 <tr>
 <td width="33%" valign="top">
 
-**Candidate Portal**  
+**🔐 Candidate Portal**  
 Personal login for every registered student — exam schedule, admit card, and results in one place.
 
 </td>
 <td width="33%" valign="top">
 
-**Talent Profile Reports**  
+**📊 Talent Profile Reports**  
 Domain-wise scores and percentile breakdown across all four cognitive areas. Not a rank — a real cognitive picture.
 
 </td>
 <td width="33%" valign="top">
 
-**Digital Admit Cards**  
+**🪪 Digital Admit Cards**  
 Auto-generated at registration, portal-accessible, and email-delivered. No paperwork.
 
 </td>
@@ -276,19 +290,19 @@ Auto-generated at registration, portal-accessible, and email-delivered. No paper
 <tr>
 <td width="33%" valign="top">
 
-**Certificate Verification**  
-Every certificate has a unique public code. Independently verifiable. No fake certificates possible.
+**✅ Certificate Verification**  
+Every certificate carries a unique public code. Independently verifiable. No fake certificates possible.
 
 </td>
 <td width="33%" valign="top">
 
-**WhatsApp & Email Alerts**  
+**🔔 WhatsApp & Email Alerts**  
 Registration confirmations, exam reminders, result announcements — delivered where parents already are.
 
 </td>
 <td width="33%" valign="top">
 
-**Online Registration**  
+**📝 Online Registration**  
 Fully digital, instant confirmation. Open to students in Classes 5–8 across India.
 
 </td>
@@ -301,20 +315,23 @@ Fully digital, instant confirmation. Open to students in Classes 5–8 across In
 
 The 2026 cohort is CNTS's first. Every participant receives a complete Talent Profile Report. High performers in each class and cognitive domain receive distinction certificates.
 
-This is not a ranking exercise. It is a structured way for students to understand their own cognitive strengths — before the weight of board examinations and entrance tests begins.
+This is not a ranking exercise. It is a structured opportunity for students to understand their own cognitive strengths — before the weight of board examinations and entrance tests begins to define them.
 
 ---
 
 <div align="center">
 
-[![Register for CNTS 2026](https://img.shields.io/badge/Register%20for%20CNTS%202026-%E2%86%92-0d1117?style=for-the-badge&logo=googlechrome&logoColor=7dd3fc)](https://www.thecouragelibrary.com)
-[![Candidate Portal](https://img.shields.io/badge/Candidate%20Portal-%E2%86%92-1e3a5f?style=for-the-badge&logoColor=white)](https://www.thecouragelibrary.com/dashboard)
+[![Register for CNTS 2026](https://img.shields.io/badge/%E2%86%92%20Register%20for%20CNTS%202026-0d1117?style=for-the-badge&logo=googlechrome&logoColor=7dd3fc)](https://www.thecouragelibrary.com)
+&nbsp;
+[![Candidate Portal](https://img.shields.io/badge/%E2%86%92%20Candidate%20Portal-1e3a5f?style=for-the-badge&logo=key&logoColor=white)](https://www.thecouragelibrary.com/dashboard)
 
 <br/>
 
 *CNTS · A product of Courage Library · Kanpur, Uttar Pradesh, India*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0d1117&height=120&section=footer" width="100%" />
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0d1117&height=130&section=footer" width="100%" />
 
 </div>
 
@@ -322,8 +339,6 @@ This is not a ranking exercise. It is a structured way for students to understan
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=jansiddiqui&color=3b82f6&style=flat-square&label=Profile+Views)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=110&section=footer" width="100%" />
 
 </div>
