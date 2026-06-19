@@ -322,7 +322,7 @@ This is not a ranking exercise. It is a structured way for students to understan
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=jansiddiqui&style=flat-square&color=3b82f6&label=profile+views)](https://github.com/jansiddiqui)
+![Profile Views](https://komarev.com/ghpvc/?username=jansiddiqui&color=3b82f6&style=flat-square&label=Profile+Views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=100&section=footer" width="100%" />
 
