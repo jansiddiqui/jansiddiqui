@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=180&section=header&text=Jan%20Mohammad&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Builder%20%C2%B7%20Founder%20%C2%B7%20CSE%20(AI%2FML)&descAlignY=58&descSize=16&descColor=94a3b8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=200&section=header&text=Jan%20Mohammad&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Builder%20%C2%B7%20Founder%20%C2%B7%20CSE%20(AI%2FML)%20%C2%B7%20LPU&descAlignY=58&descSize=15&descColor=94a3b8" width="100%" />
 
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Solo+founder+%7C+Full-stack+engineer;Building+edtech+for+Bharat;AI%2FML+student+%7C+600%2B+DSA+problems+solved;Shipping+real+products+from+Kanpur" alt="Typing SVG" /></a>
 
-<div align="center">
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://about-me-theta-mocha.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-mohammad-566a6221b)
@@ -13,12 +13,11 @@
 
 </div>
 
-<br />
+<br/>
 
-I'm a third-year CSE (AI/ML) student at LPU and the solo founder of **Courage Library** — a full-stack exam preparation platform built for government exam aspirants across India's Hindi belt. I design, engineer, and ship everything myself.
+Third-year CSE (AI/ML) student at LPU and solo founder of **[Courage Library](https://couragelibrary.in)** — a full-stack exam preparation platform serving government exam aspirants across India's Hindi belt. I design, engineer, and ship everything myself, from database schema to product copy.
 
-Currently building: **Courage Library** · **CNTS** · **SplitSync**  
-Previously: Infosys Springboard · Oryza Creative Agency (co-founder)
+Also building **[CNTS](https://www.thecouragelibrary.com)** (Courage National Talent Search), a national cognitive aptitude assessment for Classes 5–8, and **SplitSync**, a shared expense tracker. Previously interned at **Infosys Springboard** and co-founded **Oryza Creative Agency**.
 
 ---
 
@@ -29,7 +28,7 @@ Previously: Infosys Springboard · Oryza Creative Agency (co-founder)
 <td width="50%" valign="top">
 
 ### [Courage Library](https://couragelibrary.in)
-Exam prep platform serving SSC, UP Police, and government exam aspirants across Tier 2/3 India. Mock tests, gamified coin rewards, streaks, leaderboards, physical prizes, and a study center in Kanpur.
+Full-stack exam prep platform for SSC, UP Police, and government aspirants across Tier 2/3 India. Mock tests, gamified CL Coins, streaks, leaderboards, physical prizes, and a study center in Kanpur — built and operated solo.
 
 `Supabase` `Alpine.js` `Tailwind CSS` `Vanilla JS` `Brevo`
 
@@ -37,7 +36,7 @@ Exam prep platform serving SSC, UP Police, and government exam aspirants across 
 <td width="50%" valign="top">
 
 ### [CNTS](https://www.thecouragelibrary.com)
-Courage National Talent Search — a national cognitive aptitude assessment for Classes 5–8. Measures how students think, not what they've memorised.
+Courage National Talent Search — a national cognitive aptitude assessment for Classes 5–8. Not a coaching platform. Not syllabus-based. Measures how students think.
 
 `Next.js 15` `Supabase` `Vercel` `Tailwind CSS`
 
@@ -47,7 +46,7 @@ Courage National Talent Search — a national cognitive aptitude assessment for 
 <td width="50%" valign="top">
 
 ### SplitSync
-Shared expense tracker with real-time sync. Clean UI, instant splits, no account friction.
+Shared expense tracker with real-time sync. Clean UI, instant splits, zero account friction.
 
 `Next.js` `Vercel`
 
@@ -55,7 +54,7 @@ Shared expense tracker with real-time sync. Clean UI, instant splits, no account
 <td width="50%" valign="top">
 
 ### CL AI War Room
-Multi-agent AI operating system for Courage Library — 8 department dashboards (CEO, CMO, CHRO, CRO, and more) connected to a live Supabase backend.
+Multi-agent AI operating system for Courage Library — 8 department war rooms (CEO, CMO, CHRO, CRO, and more) wired to a live Supabase backend.
 
 `Supabase` `JavaScript` `Claude API`
 
@@ -69,8 +68,8 @@ Multi-agent AI operating system for Courage Library — 8 department dashboards 
 
 <table>
 <tr>
-<td width="120px" valign="top"><strong>Languages</strong></td>
-<td valign="top">
+<td width="130px" valign="middle"><strong>Languages</strong></td>
+<td valign="middle">
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
@@ -81,8 +80,8 @@ Multi-agent AI operating system for Courage Library — 8 department dashboards 
 </td>
 </tr>
 <tr>
-<td valign="top"><strong>Frontend</strong></td>
-<td valign="top">
+<td valign="middle"><strong>Frontend</strong></td>
+<td valign="middle">
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -94,8 +93,8 @@ Multi-agent AI operating system for Courage Library — 8 department dashboards 
 </td>
 </tr>
 <tr>
-<td valign="top"><strong>Backend</strong></td>
-<td valign="top">
+<td valign="middle"><strong>Backend</strong></td>
+<td valign="middle">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
@@ -105,8 +104,8 @@ Multi-agent AI operating system for Courage Library — 8 department dashboards 
 </td>
 </tr>
 <tr>
-<td valign="top"><strong>DevOps & Tools</strong></td>
-<td valign="top">
+<td valign="middle"><strong>DevOps & Tools</strong></td>
+<td valign="middle">
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -116,8 +115,8 @@ Multi-agent AI operating system for Courage Library — 8 department dashboards 
 </td>
 </tr>
 <tr>
-<td valign="top"><strong>AI / ML</strong></td>
-<td valign="top">
+<td valign="middle"><strong>AI / ML</strong></td>
+<td valign="middle">
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
@@ -132,14 +131,34 @@ Multi-agent AI operating system for Courage Library — 8 department dashboards 
 
 ## Selected Work
 
+<table>
+<tr>
+<td width="33%" valign="top">
+
 **PCB Defect Detection**  
-Production-scale PCB quality inspection — YOLOv8 for detection, EfficientNet for classification, OpenCV for preprocessing. Built for CSE471 as an academic AI project.
+YOLOv8 for detection, EfficientNet for classification, OpenCV for preprocessing. Production-scale quality inspection built as an academic AI/ML project.
+
+`YOLOv8` `EfficientNet` `OpenCV`
+
+</td>
+<td width="33%" valign="top">
 
 **MindWell**  
-Mental health support platform. Built and submitted for Smart India Hackathon 2025.
+Mental health support platform built and submitted for Smart India Hackathon 2025.
+
+`SIH 2025`
+
+</td>
+<td width="33%" valign="top">
 
 **Question Bank Engine**  
-Built a PDF-to-Supabase pipeline for bulk-importing 2,000+ SSC GD and UP Police PYQ questions — Gemini/Claude vision for extraction, custom CSV schema, preview-in-exam-view importer.
+PDF-to-Supabase pipeline for bulk-importing 2,000+ SSC GD & UP Police PYQs — vision extraction, custom CSV schema, preview-in-exam-view importer.
+
+`Gemini Vision` `Supabase` `Claude API`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -147,58 +166,65 @@ Built a PDF-to-Supabase pipeline for bulk-importing 2,000+ SSC GD and UP Police 
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jansiddiqui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=94a3b8)](https://github.com/jansiddiqui)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jansiddiqui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=94a3b8&rank_icon=github)](https://github.com/jansiddiqui)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jansiddiqui&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6)](https://git.io/streak-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jansiddiqui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=94a3b8)](https://github.com/jansiddiqui)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jansiddiqui&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff)](https://github.com/jansiddiqui)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jansiddiqui&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff&area=true&area_color=3b82f6)](https://github.com/jansiddiqui)
 
 </div>
 
 ---
 
-## Education
+## Education & CP
+
+<table>
+<tr>
+<td width="60%" valign="middle">
 
 **B.Tech Computer Science & Engineering (AI/ML)**  
 Lovely Professional University · 2022–2026
 
-600+ problems solved on GeeksforGeeks · Focus on DSA in C++ and Java
+</td>
+<td width="40%" valign="middle" align="right">
+
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-600%2B%20Problems-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+[![DSA](https://img.shields.io/badge/Focus-C%2B%2B%20%26%20Java%20DSA-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)]()
+
+</td>
+</tr>
+</table>
 
 ---
 
-<br />
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a5f&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1e3a5f&height=180&section=header&text=Courage%20National%20Talent%20Search&fontSize=34&fontColor=ffffff&fontAlignY=42&desc=A%20national%20cognitive%20aptitude%20assessment%20for%20students%20in%20Classes%205%E2%80%938&descAlignY=62&descSize=13&descColor=7dd3fc" width="100%" />
 
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a5f&height=160&section=header&text=Courage%20National%20Talent%20Search&fontSize=32&fontColor=ffffff&fontAlignY=42&desc=A%20national%20cognitive%20aptitude%20assessment%20%C2%B7%20Classes%205%E2%80%938%20%C2%B7%20Founding%20Edition%202026&descAlignY=62&descSize=13&descColor=94a3b8" width="100%" />
-
-[![Website](https://img.shields.io/badge/Website-thecouragelibrary.com-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.thecouragelibrary.com)
-[![Candidate Portal](https://img.shields.io/badge/Candidate%20Portal-Login-1e3a5f?style=for-the-badge&logo=person&logoColor=white)](https://www.thecouragelibrary.com/dashboard)
-[![Courage Library](https://img.shields.io/badge/By-Courage%20Library-e11d48?style=for-the-badge)](https://couragelibrary.in)
+[![Website](https://img.shields.io/badge/thecouragelibrary.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=7dd3fc)](https://www.thecouragelibrary.com)
+[![Candidate Portal](https://img.shields.io/badge/Candidate%20Portal-1e3a5f?style=for-the-badge&logo=person&logoColor=white)](https://www.thecouragelibrary.com/dashboard)
+[![Founding Edition](https://img.shields.io/badge/Founding%20Edition-2026-e11d48?style=for-the-badge)](https://www.thecouragelibrary.com)
 
 </div>
 
-<br />
+<br/>
 
 ---
 
-## Mission
+### Mission
 
 > *"CNTS helps parents understand how their child thinks."*
 
-Most school assessments answer one question: what did this student memorise? CNTS answers a different one: how does this student think?
-
-Cognitive ability and syllabus recall are not the same thing. A student who scores 85% may have limited quantitative reasoning. A student who scores 70% may have exceptional logical ability that has never been formally identified. CNTS is built to surface what conventional assessments leave invisible — and give parents a clear, domain-wise picture of their child's cognitive profile.
+Most school assessments measure recall. CNTS measures cognition. A student who scores 85% may have limited quantitative reasoning; a student who scores 70% may have exceptional logical ability that's never been formally identified. CNTS surfaces what conventional examinations leave invisible — and gives parents a clear, domain-wise picture of their child's cognitive profile before board exams and entrance tests define their trajectory.
 
 ---
 
-## Assessment Framework
+### Assessment Framework
 
-CNTS is not a syllabus test. No NCERT. No board content. Students cannot prepare by memorising — they engage with the assessment by thinking.
+CNTS does not test curriculum content. No NCERT. No board syllabus. Students cannot prepare by memorising — they engage by thinking.
 
 | Domain | What It Measures |
 |---|---|
@@ -207,50 +233,88 @@ CNTS is not a syllabus test. No NCERT. No board content. Students cannot prepare
 | **Language Comprehension** | Reading comprehension, vocabulary in context, verbal reasoning |
 | **General Cognitive Ability** | Cross-domain problem solving, abstract thinking |
 
-**Eligibility** — Classes 5, 6, 7, and 8  
-**Reach** — Open across India
+<table>
+<tr>
+<td width="50%" valign="middle">
+
+![Eligibility](https://img.shields.io/badge/Eligibility-Classes%205%2C%206%2C%207%2C%208-1e3a5f?style=flat-square)
+
+</td>
+<td width="50%" valign="middle">
+
+![Reach](https://img.shields.io/badge/Reach-Open%20Across%20India-e11d48?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Platform
+### Platform
 
-Every component of CNTS is built and maintained in-house.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-| Layer | Stack |
-|---|---|
-| Frontend | Next.js 15, Tailwind CSS |
-| Backend & Database | Supabase (PostgreSQL + Edge Functions) |
-| Authentication | Supabase Auth |
-| Notifications | Brevo (Email) · WhatsApp Business API |
-| Deployment | Vercel |
-| Certificate Verification | UUID-based public verification endpoint |
+**Candidate Portal**  
+Personal login for every registered student — exam schedule, admit card, and results in one place.
 
-**Candidate Portal** — Registered students get a personal login: exam schedule, admit card, and results in one place.  
-**Digital Admit Cards** — Auto-generated, portal-accessible, email-delivered.  
-**Talent Profile Reports** — Domain-wise scores and percentile breakdown across all four cognitive areas.  
-**Public Certificate Verification** — Every certificate carries a unique code verifiable at a public endpoint. No fake certificates.  
-**WhatsApp + Email Notifications** — Registration confirmations, exam reminders, result announcements.
+</td>
+<td width="33%" valign="top">
+
+**Talent Profile Reports**  
+Domain-wise scores and percentile breakdown across all four cognitive areas. Not a rank — a real cognitive picture.
+
+</td>
+<td width="33%" valign="top">
+
+**Digital Admit Cards**  
+Auto-generated at registration, portal-accessible, and email-delivered. No paperwork.
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**Certificate Verification**  
+Every certificate has a unique public code. Independently verifiable. No fake certificates possible.
+
+</td>
+<td width="33%" valign="top">
+
+**WhatsApp & Email Alerts**  
+Registration confirmations, exam reminders, result announcements — delivered where parents already are.
+
+</td>
+<td width="33%" valign="top">
+
+**Online Registration**  
+Fully digital, instant confirmation. Open to students in Classes 5–8 across India.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Founding Edition — 2026
+### Founding Edition — 2026
 
 The 2026 cohort is CNTS's first. Every participant receives a complete Talent Profile Report. High performers in each class and cognitive domain receive distinction certificates.
 
-This is not a ranking exercise. It is a structured way for students to understand their own cognitive strengths — before they face the full weight of board examinations and entrance tests.
+This is not a ranking exercise. It is a structured way for students to understand their own cognitive strengths — before the weight of board examinations and entrance tests begins.
 
 ---
 
 <div align="center">
 
-[![Register](https://img.shields.io/badge/Register%20for%20CNTS%202026-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.thecouragelibrary.com)
-[![Candidate Portal](https://img.shields.io/badge/Candidate%20Portal-1e3a5f?style=for-the-badge&logo=person&logoColor=white)](https://www.thecouragelibrary.com/dashboard)
+[![Register for CNTS 2026](https://img.shields.io/badge/Register%20for%20CNTS%202026-%E2%86%92-0d1117?style=for-the-badge&logo=googlechrome&logoColor=7dd3fc)](https://www.thecouragelibrary.com)
+[![Candidate Portal](https://img.shields.io/badge/Candidate%20Portal-%E2%86%92-1e3a5f?style=for-the-badge&logoColor=white)](https://www.thecouragelibrary.com/dashboard)
 
-<br />
+<br/>
 
-*CNTS is a product of Courage Library · Kanpur, Uttar Pradesh, India*
+*CNTS · A product of Courage Library · Kanpur, Uttar Pradesh, India*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0f172a&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0d1117&height=120&section=footer" width="100%" />
 
 </div>
 
@@ -258,8 +322,8 @@ This is not a ranking exercise. It is a structured way for students to understan
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=100&section=footer" width="100%" />
-
 [![Profile Views](https://komarev.com/ghpvc/?username=jansiddiqui&style=flat-square&color=3b82f6&label=profile+views)](https://github.com/jansiddiqui)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=100&section=footer" width="100%" />
 
 </div>
